@@ -1,0 +1,1 @@
+Add images using the private manager.
