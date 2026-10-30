@@ -1,1 +1,1 @@
-Add images using the private manager.
+Add JPG, PNG or WebP screenshots to this folder using the private Store Manager.
