@@ -1,0 +1,186 @@
+[
+  {
+    "type": "holiday",
+    "name": "Benidorm",
+    "description": "Explore Benidorm's Levante and Poniente beaches, Old Town, restaurants, nightlife and local attractions. Plan your holiday, track spending and save your favourite Benidorm memories.",
+    "image": "images/01_Benidorm.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Benidorm-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Lanzarote",
+    "description": "Discover Lanzarote's volcanic landscapes, beautiful beaches, Puerto del Carmen, Playa Blanca and Timanfaya National Park. Keep your holiday plans and memories together.",
+    "image": "images/02_Lanzarote.jpg",
+    "url": "https://elevor360.github.io/Lanzarote/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Tenerife",
+    "description": "Explore Tenerife's beaches, Mount Teide, Costa Adeje, Los Cristianos and Puerto de la Cruz. Find useful local information and organise your holiday adventures.",
+    "image": "images/03_Tenerife.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Tenerife-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Majorca",
+    "description": "Discover Palma, Alcúdia, Sóller, Cala d'Or and Majorca's beautiful Mediterranean beaches. Plan day trips, organise your holiday and save your favourite places.",
+    "image": "images/04_Majorca.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Majorca-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Gran Canaria",
+    "description": "Explore Maspalomas, Playa del Inglés, Puerto Rico and the island's spectacular scenery. Discover attractions, plan excursions and record memorable visits.",
+    "image": "images/05_Gran_Canaria.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Gran-Canaria-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Fuerteventura",
+    "description": "Discover Corralejo, Caleta de Fuste, Jandía and Fuerteventura's stunning sandy beaches. Explore the island, plan your days and save holiday photographs.",
+    "image": "images/06_Fuerteventura.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Fuerteventura-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Albufeira",
+    "description": "Explore Albufeira's Old Town, golden beaches, marina, restaurants and Algarve attractions. Plan your holiday and keep your favourite Portuguese memories together.",
+    "image": "images/07_Albufeira.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Albufeira-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Torremolinos",
+    "description": "Discover La Carihuela, Bajondillo Beach, the promenade, local restaurants and Costa del Sol attractions. Organise your holiday and record your favourite experiences.",
+    "image": "images/08_Torremolinos.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Torremolinos-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Fuengirola",
+    "description": "Explore Fuengirola's beaches, marina, historic castle, restaurants and local attractions. Plan days out and keep a personal record of your holiday.",
+    "image": "images/09_Fuengirola.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Fuengirola-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Málaga",
+    "description": "Discover Málaga's historic centre, Alcazaba, Picasso Museum, harbour and beaches. Explore the city's attractions while managing your holiday plans and memories.",
+    "image": "images/10_Malaga.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-M-laga-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Marbella",
+    "description": "Explore Marbella's charming Old Town, Puerto Banús, Golden Mile and beautiful beaches. Discover places to visit, plan excursions and save memorable experiences.",
+    "image": "images/11_Marbella.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Marbella-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Nerja",
+    "description": "Discover the Balcón de Europa, Nerja Caves, Burriana Beach and nearby Frigiliana. Plan your holiday and record your favourite restaurants, beaches and visits.",
+    "image": "images/12_Nerja.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Nerja-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Salou",
+    "description": "Explore Salou's golden beaches, promenade, PortAventura World and nearby Tarragona. Keep your holiday organised and save your favourite experiences.",
+    "image": "images/13_Salou.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Salou-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Calella",
+    "description": "Discover Calella's sandy beaches, Old Town, lighthouse and coastal attractions. Plan your days, explore local places and record your holiday memories.",
+    "image": "images/14_Calella.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Calella-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Lloret de Mar",
+    "description": "Explore Lloret de Mar's beaches, Santa Clotilde Gardens, nightlife and Costa Brava attractions. Plan your holiday and save your favourite places and photographs.",
+    "image": "images/15_Lloret_de_Mar.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Lloret-de-Mar-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Paphos",
+    "description": "Discover Paphos Harbour, Coral Bay, Tombs of the Kings and the Archaeological Park. Explore Cyprus, organise your holiday and preserve special memories.",
+    "image": "images/16_Paphos.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Paphos-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "holiday",
+    "name": "Ayia Napa",
+    "description": "Explore Nissi Beach, Cape Greco, Ayia Napa Harbour, sea caves and local attractions. Plan your adventures, track your spending and save your favourite holiday moments.",
+    "image": "images/17_Ayia_Napa.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Ayia-Napa-Holiday-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "name": "Iona Cruise Companion",
+    "description": "Plan and organise your Iona cruise.",
+    "image": "images/iona.jpg",
+    "url": "https://elevor360.github.io/iona-cruise-companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "name": "Ventura Cruise Companion",
+    "description": "A free cruise companion for P&O Ventura passengers.",
+    "image": "images/Ventura.jpg",
+    "url": "https://elevor360.github.io/Ventura-Cruise-app/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "name": "Britannia Cruise Companion",
+    "description": "Plan and organise your P&O Britannia holiday.",
+    "image": "images/Britannia.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Britannia-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "name": "Arvia Cruise Companion",
+    "description": "A free companion for your P&O Arvia holiday.",
+    "image": "images/Arvia.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Arvia-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "name": "Azura Cruise Companion",
+    "description": "Plan and organise your Azura cruise.",
+    "image": "images/Azura.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Azura-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "name": "Arcadia Cruise Companion",
+    "description": "A practical companion for Arcadia cruises.",
+    "image": "images/Arcadia.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Arcadia-Cruise-Companion/",
+    "visible": true
+  }
+]
