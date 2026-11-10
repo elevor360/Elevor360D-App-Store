@@ -1,0 +1,13 @@
+Elevor360D Travel Blog V2
+
+This ZIP preserves your V1.1 website and images, with an upgraded article display for SEO fields, related apps and affiliate links.
+
+Use the separate Blog Manager V2 HTML on your computer. It continues using the same browser storage as V1.
+
+To publish new or edited articles, export blog-posts.json from Manager V2 and upload that JSON file to the website root.
+
+Upload the website ZIP contents to your GitHub Pages repository to enable V2 article rendering. Keep CNAME.
+
+SEO metadata is generated in the browser. For stronger search indexing, future versions should export dedicated static HTML article pages.
+
+Do not upload the Blog Manager to your public website.
