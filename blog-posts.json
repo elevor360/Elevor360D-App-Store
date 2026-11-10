@@ -1,0 +1,35 @@
+[
+  {
+    "id": "benidorm-guide",
+    "title": "Discover Benidorm: Beaches, Old Town and Holiday Ideas",
+    "category": "Destinations",
+    "date": "2026-11-10",
+    "image": "images/01_Benidorm.jpg",
+    "summary": "Explore Benidorm, from its famous beaches to the historic old town.",
+    "body": "Benidorm is a popular Costa Blanca holiday destination, known for its long sandy beaches and lively atmosphere.\n\nSpend time on Levante Beach, explore the lanes of the old town and visit the Balc\u00f3n del Mediterr\u00e1neo viewpoint.\n\nFor a quieter day, consider Poniente Beach. Check opening times and booking conditions for attractions before you travel.",
+    "appUrl": "travel-companions.html",
+    "appText": "Explore our free holiday companion apps"
+  },
+  {
+    "id": "lanzarote-guide",
+    "title": "Lanzarote Holiday Guide: Volcanoes, Beaches and Excursions",
+    "category": "Destinations",
+    "date": "2026-11-10",
+    "image": "images/02_Lanzarote.jpg",
+    "summary": "Ideas for exploring Lanzarote\u2019s volcanic landscapes and coastal resorts.",
+    "body": "Lanzarote offers striking volcanic scenery, beautiful coastlines and varied holiday resorts.\n\nTimanfaya National Park is a memorable highlight. Other popular places include the work of C\u00e9sar Manrique and the island\u2019s beaches.\n\nCheck local access arrangements, weather and excursion details before booking.",
+    "appUrl": "travel-companions.html",
+    "appText": "Browse our holiday companion apps"
+  },
+  {
+    "id": "first-cruise",
+    "title": "Your First Cruise: Simple Planning Tips",
+    "category": "Cruises",
+    "date": "2026-11-10",
+    "image": "images/iona.jpg",
+    "summary": "A practical checklist for first-time cruise passengers.",
+    "body": "Before booking your first cruise, compare itineraries, cabin locations and what the fare includes.\n\nCheck passport and entry requirements, travel insurance, baggage allowances and embarkation instructions.\n\nOnce onboard, use the ship\u2019s daily programme to plan activities and allow enough time to return from shore visits.",
+    "appUrl": "travel-companions.html",
+    "appText": "See our free cruise companion apps"
+  }
+]
