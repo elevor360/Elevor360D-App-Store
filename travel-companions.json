@@ -139,7 +139,7 @@
     "type": "cruise",
     "name": "Iona Cruise Companion",
     "description": "Plan and organise your Iona cruise.",
-    "image": "images/iona.jpg",
+    "image": "images/Elevor360D_Iona_Cruise_Companion.jpg",
     "url": "https://elevor360.github.io/iona-cruise-companion/",
     "visible": true
   },
@@ -147,7 +147,7 @@
     "type": "cruise",
     "name": "Ventura Cruise Companion",
     "description": "A free cruise companion for P&O Ventura passengers.",
-    "image": "images/Ventura.jpg",
+    "image": "images/Elevor360D_Ventura_Cruise_Companion.jpg",
     "url": "https://elevor360.github.io/Ventura-Cruise-app/",
     "visible": true
   },
@@ -155,7 +155,7 @@
     "type": "cruise",
     "name": "Britannia Cruise Companion",
     "description": "Plan and organise your P&O Britannia holiday.",
-    "image": "images/Britannia.jpg",
+    "image": "images/Elevor360D_Britannia_Cruise_Companion.jpg",
     "url": "https://elevor360.github.io/Elevor360D-Britannia-Cruise-Companion/",
     "visible": true
   },
@@ -163,7 +163,7 @@
     "type": "cruise",
     "name": "Arvia Cruise Companion",
     "description": "A free companion for your P&O Arvia holiday.",
-    "image": "images/Arvia.jpg",
+    "image": "images/Elevor360D_Arvia_Cruise_Companion.jpg",
     "url": "https://elevor360.github.io/Elevor360D-Arvia-Cruise-Companion/",
     "visible": true
   },
@@ -171,7 +171,7 @@
     "type": "cruise",
     "name": "Azura Cruise Companion",
     "description": "Plan and organise your Azura cruise.",
-    "image": "images/Azura.jpg",
+    "image": "images/Elevor360D_Azura_Cruise_Companion.jpg",
     "url": "https://elevor360.github.io/Elevor360D-Azura-Cruise-Companion/",
     "visible": true
   },
@@ -179,8 +179,48 @@
     "type": "cruise",
     "name": "Arcadia Cruise Companion",
     "description": "A practical companion for Arcadia cruises.",
-    "image": "images/Arcadia.jpg",
+    "image": "images/Elevor360D_Arcadia_Cruise_Companion.jpg",
     "url": "https://elevor360.github.io/Elevor360D-Arcadia-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "name": "Aurora Cruise Companion",
+    "description": "includes the cruise planner, cabin information, deck guide, dining and entertainment sections, packing list, spending tracker, backup and restore, offline support and Share QR page.",
+    "image": "images/Elevor360D_Aurora_Cruise_Companion.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-P-O-Aurora-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "name": "Queen Mary 2 Cruise Companion",
+    "description": "The app includes the cruise planner, cabin details, deck guide, dining and entertainment information, packing list, spending tracker, backup and restore, share QR code and offline support.",
+    "image": "images/Elevor360D_Queen_Mary_2_Cruise_Companion.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Queen-Mary-2-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "name": "Queen Anne Cruise Companion",
+    "description": "including the cruise planner, cabin details, packing list, spending tracker, photo gallery, QR sharing, Queen Anne's restaurants, bars, entertainment, Facilities Finder and official Cunard deck plans.",
+    "image": "images/Elevor360D_Queen_Anne_Cruise_Companion.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Queen-Anne-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "name": "Queen Victoria Cruise Companion",
+    "description": "Queen Victoria's own restaurants, bars, entertainment, facilities and official deck plans,",
+    "image": "images/Elevor360D_Queen_Victoria_Cruise_Companion.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Queen-Victoria-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "name": "Queen Elizabeth Cruise Companion",
+    "description": "This includes Queen Elizabeth's own restaurants, bars, entertainment and Facilities Finder, based on Cunard's published information,\n\nAlso includes a dedicated 2025 Refurbishment & What's New section, with a link to Cunard's official refurbishment information.\n\nExisting cruise planner, cabin details, packing list, spending tracker, QR sharing, offline functionality",
+    "image": "images/Elevor360D_Queen_Elizabeth_Cruise_Companion.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Queen-Elizabeth-Cruise-Companion/",
     "visible": true
   }
 ]
