@@ -222,5 +222,293 @@
     "image": "images/Elevor360D_Queen_Elizabeth_Cruise_Companion.jpg",
     "url": "https://elevor360.github.io/Elevor360D-Queen-Elizabeth-Cruise-Companion/",
     "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "Fred. Olsen",
+    "name": "Bolette Cruise Companion",
+    "description": "Free Bolette cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Bolette-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "Fred. Olsen",
+    "name": "Borealis Cruise Companion",
+    "description": "Free Borealis cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Borealis-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "Fred. Olsen",
+    "name": "Balmoral Cruise Companion",
+    "description": "Free Balmoral cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Balmoral-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "Marella",
+    "name": "Marella Explorer Cruise Companion",
+    "description": "Free Marella Explorer cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Marella-Explorer-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "Marella",
+    "name": "Marella Explorer 2 Cruise Companion",
+    "description": "Free Marella Explorer 2 cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Marella-Explorer-2-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "Marella",
+    "name": "Marella Discovery Cruise Companion",
+    "description": "Free Marella Discovery cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Marella-Discovery-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "Marella",
+    "name": "Marella Discovery 2 Cruise Companion",
+    "description": "Free Marella Discovery 2 cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Marella-Discovery-2-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "Marella",
+    "name": "Marella Voyager Cruise Companion",
+    "description": "Free Marella Voyager cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-Marella-Voyager-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Virtuosa Cruise Companion",
+    "description": "Free MSC Virtuosa cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Virtuosa-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Euribia Cruise Companion",
+    "description": "Free MSC Euribia cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Euribia-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Grandiosa Cruise Companion",
+    "description": "Free MSC Grandiosa cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Grandiosa-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC World Europa Cruise Companion",
+    "description": "Free MSC World Europa cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-World-Europa-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC World America Cruise Companion",
+    "description": "Free MSC World America cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-World-America-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Seascape Cruise Companion",
+    "description": "Free MSC Seascape cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Seascape-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Seashore Cruise Companion",
+    "description": "Free MSC Seashore cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Seashore-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Seaside Cruise Companion",
+    "description": "Free MSC Seaside cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Seaside-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Seaview Cruise Companion",
+    "description": "Free MSC Seaview cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Seaview-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Meraviglia Cruise Companion",
+    "description": "Free MSC Meraviglia cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Meraviglia-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Bellissima Cruise Companion",
+    "description": "Free MSC Bellissima cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Bellissima-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Preziosa Cruise Companion",
+    "description": "Free MSC Preziosa cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Preziosa-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Divina Cruise Companion",
+    "description": "Free MSC Divina cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Divina-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Fantasia Cruise Companion",
+    "description": "Free MSC Fantasia cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Fantasia-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Splendida Cruise Companion",
+    "description": "Free MSC Splendida cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Splendida-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Magnifica Cruise Companion",
+    "description": "Free MSC Magnifica cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Magnifica-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Poesia Cruise Companion",
+    "description": "Free MSC Poesia cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Poesia-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Orchestra Cruise Companion",
+    "description": "Free MSC Orchestra cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Orchestra-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Musica Cruise Companion",
+    "description": "Free MSC Musica cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Musica-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Lirica Cruise Companion",
+    "description": "Free MSC Lirica cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Lirica-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Opera Cruise Companion",
+    "description": "Free MSC Opera cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Opera-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Sinfonia Cruise Companion",
+    "description": "Free MSC Sinfonia cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Sinfonia-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC Armonia Cruise Companion",
+    "description": "Free MSC Armonia cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-Armonia-Cruise-Companion/",
+    "visible": true
+  },
+  {
+    "type": "cruise",
+    "line": "MSC Cruises",
+    "name": "MSC World Asia Cruise Companion",
+    "description": "Free MSC World Asia cruise companion. Organise your itinerary, cabin notes, packing, spending and favourite memories, with offline planning and QR sharing.",
+    "image": "images/elevor360d-logo.jpg",
+    "url": "https://elevor360.github.io/Elevor360D-MSC-World-Asia-Cruise-Companion/",
+    "visible": true
   }
 ]
