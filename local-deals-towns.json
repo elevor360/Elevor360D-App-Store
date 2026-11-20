@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "towns": []
+  "towns": [
+    {
+      "name": "Fieetwood",
+      "title": "Local Deals Fieetwood",
+      "url": "https://elevor360.github.io/Elevore360D-Single-Business-Product-Offers-V4/",
+      "description": "Discover Local Businesses in Fleetwood"
+    }
+  ]
 }
