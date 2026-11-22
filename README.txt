@@ -1,0 +1,1 @@
+Upload index.html to the ROOT of your existing Elevor360D website repository, replacing index.html only. Keep local-deals-towns.json and local-deals.html in place. This fix dynamically reads town URLs from local-deals-towns.json. Future Store Manager exports may overwrite index.html unless its template is updated too.
