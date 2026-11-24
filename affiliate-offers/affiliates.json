@@ -51,18 +51,6 @@
       "order": 3
     },
     {
-      "id": "4",
-      "title": "AirHelp",
-      "category": "Travel & Holidays",
-      "description": "Flight disruption assistance.",
-      "url": "",
-      "image": "",
-      "price": "",
-      "expiry": "",
-      "enabled": false,
-      "order": 4
-    },
-    {
       "id": "a10eca0b-244d-4886-9bdb-100ecf08774a",
       "title": "Villa Select – Your Perfect Villa Holiday",
       "category": "Travel & Holidays",
@@ -85,6 +73,18 @@
       "expiry": "",
       "enabled": true,
       "order": 6
+    },
+    {
+      "id": "facb75e0-8a0e-4fe6-be4c-e56b52080a64",
+      "title": "Radical Storage – Explore Hands-Free",
+      "category": "Travel & Holidays",
+      "description": "How it works\nWith Radical Storage you can free yourself from your luggage anywhere, anytime. Follow these simple steps to book your luggage storage and get back to enjoying your trip.\n\nFind\n1. Find\nFind a luggage storage location near you\n\nBook\n2. Book\nBook online in a couple of minutes\n\nDrop off\n3. Drop off\nShow your booking confirmation at the location and leave your bags in a secure area.\n\nPick up\n4. Pick up\nPick up your luggage",
+      "url": "https://radicalstorage.tpk.lv/6stXnG1b",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 7
     }
   ]
 }
