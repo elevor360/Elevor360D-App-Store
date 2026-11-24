@@ -18,12 +18,12 @@
       "id": "1",
       "title": "Klook",
       "category": "Cruises & Excursions",
-      "description": "Activities and experiences.",
-      "url": "",
+      "description": "Klook is how you can find joyful experiences for anytime, anywhere.\n\nLooking for fun things to do nearby? The best weekend getaway deals? Or just need to get from A to B when you're traveling? Klook is all of this and more. Best of all, everything's a few taps away.",
+      "url": "https://klook.tpk.lv/kHCFqzSE",
       "image": "",
       "price": "",
       "expiry": "",
-      "enabled": false,
+      "enabled": true,
       "order": 1
     },
     {
