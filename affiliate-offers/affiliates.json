@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Travel & Holidays",
+    "Cruises & Excursions",
+    "Hotels & Accommodation",
+    "Fashion & Clothing",
+    "Home & Garden",
+    "Pets & Accessories",
+    "Technology & Electronics",
+    "Health & Fitness",
+    "Hobbies & Interests",
+    "General Shopping",
+    "Caravan & Motorhome",
+    "Special Offers"
+  ],
+  "offers": [
+    {
+      "id": "1",
+      "title": "Klook",
+      "category": "Cruises & Excursions",
+      "description": "Activities and experiences.",
+      "url": "",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": false,
+      "order": 1
+    },
+    {
+      "id": "2",
+      "title": "WeGoTrip",
+      "category": "Cruises & Excursions",
+      "description": "Self-guided tours.",
+      "url": "",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": false,
+      "order": 2
+    },
+    {
+      "id": "3",
+      "title": "Radical Storage",
+      "category": "Travel & Holidays",
+      "description": "Luggage storage.",
+      "url": "",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": false,
+      "order": 3
+    },
+    {
+      "id": "4",
+      "title": "AirHelp",
+      "category": "Travel & Holidays",
+      "description": "Flight disruption assistance.",
+      "url": "",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": false,
+      "order": 4
+    }
+  ]
+}
