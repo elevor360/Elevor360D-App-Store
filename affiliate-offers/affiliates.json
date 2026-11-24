@@ -73,6 +73,18 @@
       "expiry": "",
       "enabled": true,
       "order": 5
+    },
+    {
+      "id": "772f8499-7a2a-48e4-8272-f1385b24985b",
+      "title": "WeGoTrip – Audio Tours & Experiences",
+      "category": "Travel & Holidays",
+      "description": "Download the WeGoTrip App\nfor easy self-guided travel\nTurn your phone into a personal guide\nand get thousands of activities worldwide with app-users perks.",
+      "url": "https://wegotrip.tpk.lv/FUzYbI6e",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 6
     }
   ]
 }
