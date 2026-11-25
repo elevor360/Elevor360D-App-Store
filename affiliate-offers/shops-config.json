@@ -26,6 +26,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "dead-good-undies",
+      "name": "Dead Good Undies",
+      "category": "Fashion & Clothing",
+      "secret": "UNDIES_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
