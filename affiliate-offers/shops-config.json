@@ -1,0 +1,13 @@
+{
+  "shops": [
+    {
+      "id": "btr",
+      "name": "BTR Direct Sports",
+      "category": "Sports & Fitness",
+      "secret": "BTR_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
+    }
+  ]
+}
