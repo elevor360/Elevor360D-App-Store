@@ -143,6 +143,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "terralec",
+      "name": "TERRALEC - Stage, Sound and Lighting Solutions",
+      "category": "Technology & Electronics",
+      "secret": "TERRALEC_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
