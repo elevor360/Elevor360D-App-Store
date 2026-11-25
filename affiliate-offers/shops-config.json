@@ -62,6 +62,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "beaute-boulevard",
+      "name": "Beaute Boulevard",
+      "category": "Health & Fitness",
+      "secret": "BEAUTE_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
