@@ -134,6 +134,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "sweatband",
+      "name": "Sweatband",
+      "category": "Health & Fitness",
+      "secret": "SWEATBAND_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
