@@ -71,6 +71,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "evercreatures",
+      "name": "Evercreatures",
+      "category": "Fashion & Clothing",
+      "secret": "CREATURES_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
