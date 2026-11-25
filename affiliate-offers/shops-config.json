@@ -98,15 +98,6 @@
       "enabled": true,
       "logo": "",
       "banner": ""
-    },
-    {
-      "id": "pnastore",
-      "name": "PNA Store",
-      "category": "General Shopping",
-      "secret": "PNA_FEED_URL",
-      "enabled": true,
-      "logo": "",
-      "banner": ""
     }
   ]
 }
