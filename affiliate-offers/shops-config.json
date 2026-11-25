@@ -152,6 +152,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "duvet-company",
+      "name": "The Big Little Duvet Company",
+      "category": "Home & Garden",
+      "secret": "DUVET_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
