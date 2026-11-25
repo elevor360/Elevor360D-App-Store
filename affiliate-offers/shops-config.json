@@ -35,6 +35,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "elegant",
+      "name": "Elegant Showers",
+      "category": "Home & Garden",
+      "secret": "SHOWER_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
