@@ -89,6 +89,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "perfume",
+      "name": "Perfume UK",
+      "category": "General Shopping",
+      "secret": "PERFUME_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
