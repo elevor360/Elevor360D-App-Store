@@ -44,6 +44,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "evolution",
+      "name": "Evolution Slimming",
+      "category": "Health & Fitness",
+      "secret": "SLIMMING_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
