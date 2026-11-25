@@ -100,15 +100,6 @@
       "banner": ""
     },
     {
-      "id": "pna",
-      "name": "PNA Store",
-      "category": "General Shopping",
-      "secret": "PNA_FEED_URL",
-      "enabled": true,
-      "logo": "",
-      "banner": ""
-    },
-    {
       "id": "proactive",
       "name": "Proactive",
       "category": "Health & Fitness",
