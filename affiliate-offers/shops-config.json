@@ -116,6 +116,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "beauty",
+      "name": "scentuBEAUTY",
+      "category": "Health & Fitness",
+      "secret": "BEAUTY_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
