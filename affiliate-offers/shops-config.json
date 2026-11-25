@@ -80,6 +80,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "charles-bentley",
+      "name": "Charles Bentley",
+      "category": "Home & Garden",
+      "secret": "BENTLEY_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
