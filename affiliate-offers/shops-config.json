@@ -17,6 +17,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "artme",
+      "name": "ARTME",
+      "category": "Hobbies & Interests",
+      "secret": "ARTME_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
