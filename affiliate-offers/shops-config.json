@@ -161,6 +161,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "winning-moves",
+      "name": "Winning Moves",
+      "category": "Hobbies & Interests",
+      "secret": "WINNING_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
