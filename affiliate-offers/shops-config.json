@@ -107,6 +107,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "prowise",
+      "name": "Prowise Healthcare",
+      "category": "Health & Fitness",
+      "secret": "PROWISE_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
