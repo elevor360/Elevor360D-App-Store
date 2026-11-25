@@ -125,6 +125,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "disturbed",
+      "name": "Slightly Disturbed",
+      "category": "Clothing & Fashion",
+      "secret": "DISTURBED_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
