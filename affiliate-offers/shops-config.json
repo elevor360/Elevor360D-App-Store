@@ -170,6 +170,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "wow",
+      "name": "World of Wallpaper",
+      "category": "Home & Garden",
+      "secret": "WOW_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
