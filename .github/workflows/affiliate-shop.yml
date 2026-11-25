@@ -1,0 +1,23 @@
+name: Refresh affiliate shop
+on:
+  schedule:
+    - cron: '23 5 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: affiliate-shop-refresh
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh catalogue
+        env:
+          BTR_FEED_URL: ${{ secrets.BTR_FEED_URL }}
+        run: python3 scripts/refresh_affiliate_shop.py
+      - name: Save catalogue
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add affiliate-offers/btr-products.json
+          git diff --cached --quiet || (git commit -m 'Refresh affiliate catalogue' && git push)
