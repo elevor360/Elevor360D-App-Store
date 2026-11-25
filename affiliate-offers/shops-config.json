@@ -8,6 +8,15 @@
       "enabled": true,
       "logo": "",
       "banner": ""
+    },
+    {
+      "id": "belle",
+      "name": "Belle Lingerie",
+      "category": "Fashion & Clothing",
+      "secret": "BELLE_FEED_URL",
+      "enabled": true,
+      "logo": "",
+      "banner": ""
     }
   ]
 }
