@@ -11,7 +11,9 @@
     "Hobbies & Interests",
     "General Shopping",
     "Caravan & Motorhome",
-    "Special Offers"
+    "Special Offers",
+    "Food & Drink",
+    "Christmas"
   ],
   "offers": [
     {
@@ -289,6 +291,114 @@
       "expiry": "",
       "enabled": false,
       "order": 23
+    },
+    {
+      "id": "fb621042-eefe-45c5-88f3-8b274f688a25",
+      "title": "Openhagen",
+      "category": "Hobbies & Interests",
+      "description": "Openhagen is a premium Danish Brand that specializes in designing and manufacturing guitar accessories.\nOur products include wall mounts, guitar stands, ukuleles, and headphone stands, including the world’s only collapsible guitar hanger!\nWe also offer our smart wooden projector – The LightBoks.",
+      "url": "https://www.paidonresults.net/c/63151/1/2652/0",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 24
+    },
+    {
+      "id": "09359434-964a-40b8-ae0c-72c5e7ff30d4",
+      "title": "Cocktail Crates",
+      "category": "Food & Drink",
+      "description": "Cocktail Crates design and create gift boxes contianing a selection of popular cocktails, allowing customers to bring mixology into the comfort of their own homes.\n\nWe offer:\n\nCarefully curated cocktail crates which include  all of the ingredients you need to create awesome cocktails\nEach crate contains at least 4 cocktails\nBeautifully packaged in exclusive Cocktail Crate boxes\nWhether it's a Long Island Iced Tea, a Mai Tai or a Mojito - there are Cocktail Crates for every occasion!\n\nCocktail Crates include the following cocktails, plus new ones that are being developed all the time:\n\nOld Fashioned cocktail box\nPornstar Martini cocktail box\nMai Tai cocktail box\nZombie cocktail box\nEspresso Martini cocktail box\nMojito cocktail box\nTequila Sunrise cocktail box\nMango Martini cocktail box\nPina Colada cocktail box\nBramble cocktail box\nLong Island Iced Tea cocktail box\nApple Martini cocktail box\nManhattan cocktail box\nMoscow Mule cocktail box\nBloody Mary cocktail box",
+      "url": "https://cocktailcrates.link/KO8AF",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 25
+    },
+    {
+      "id": "6c13792d-ab12-4da8-82c3-d35a154da835",
+      "title": "Santa Letter Direct",
+      "category": "Christmas",
+      "description": "Welcome to Santa Letter Direct\n\nReceiving a personalised letter from Santa is a truly magical experience, all our letters are posted in a North Pole envelope plus your customers can opt to receive a text message from Santa on Christmas morning.\n\nWithin our letters you will have the option to add various personalisation points such as best friends name, achievement, age, desired present and many more for the most magical personalised letter.\n\nWe have been posting letters from Santa since 2011 to children all over the world, with worldwide free delivery on anything purchased.\nWe post thousands of letters every year.\n\nWe have a variety of products available:\n\nLetters from Santa - RRP £6.99\nLetters from Santa with Nice List Certificate - RRP £9.99\nLetters from Santa with activity pack - RRP £11.99\n\"Dear Santa\" packs - RRP £6.99\nPersonalised Books - RRP £24.99\nBirthday Cards - RRP £4.49\nPostcards - RRP £3.49\nPersonalised Video From Santa - RRP £10.99\nPersonalised Video Calls - RRP £5.99\nPersonalised Magic Key - RRP £15.99\nSanta's Lost Button - RRP £9.99",
+      "url": "https://www.paidonresults.net/c/63151/1/1852/0",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 26
+    },
+    {
+      "id": "ed8182fc-a4d1-4f58-8ffd-fdb32b5462b9",
+      "title": "The Stencil Studio",
+      "category": "Hobbies & Interests",
+      "description": "The Stencil Studio is a UK company specialising in creating high-quality, unique stencils that are sold worldwide.\n\nEstablished in 2008 by sisters Nikki & Clare, The Stencil Studio has grown from its humble beginnings of hand cutting stencils in a converted garage space to becoming one of the top stencil brands in the UK by investing in the latest high tech precision laser cutting machines.\n\nBased in our studio in the Cotswolds, we offer a huge collection of stencil designs in a range of sizes to suit any home decorating, DIY, up-cycling or craft project. Our stencils are precision laser cut from a high quality 190 micron Mylar that is washable and reusable, making decorating your home with stencils very cost effective. Suitable for use on any type of surface from walls, tiles, furniture, fabric to patio slabs and scrapbooks.\n\nWe pride ourselves on providing quality customer service and are committed to creating innovative stencil designs that are attractive, creative, and long-lasting. We love to help our customers unlock their creativity and bring their visions to life.",
+      "url": "https://thestencilstudio.link/aEYSS",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 27
+    },
+    {
+      "id": "1c3d6ac8-bddf-4f69-bbcf-97010180bd2d",
+      "title": "Diversion Automotive",
+      "category": "Hobbies & Interests",
+      "description": "At Diversion Automotive we offer an exceptional range of automotive parts, including some the most popular and up to date products from own, and well known premium brands.\n\nSome of these parts include: \n\nSpoilers\nExhausts\nInduction Kits \nSuspension Kits\nAlloy wheels\nTailor made steering wheels\nBadges\nHeadlights & Tail Lights\nWe are known for our exceptional product quality and fast service, and our market ranges from individuals wh are 17, looking to improve their first car, to those who are heading for retirement and want to modify, secure and look after their hard earned pride and joy.",
+      "url": "https://diversionstores.net/irXpQ",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 28
+    },
+    {
+      "id": "230a26f5-f161-4e00-87f2-47d15ead1f9d",
+      "title": "Bioptimizers",
+      "category": "Health & Fitness",
+      "description": "BiOptimizers started in 2004.  Wade Lightheart and Matt Gallant had been friends for years and bonded over their passion for health and fitness.  They were both some of the top personal trainers at World’s Gym downtown Vancouver.\n\nMatt was also a successful online entrepreneur and he felt that Wade was a great business partner due to his unique credentials and story. Wade was a 3X natural bodybuilding champion and did it as a vegetarian!\n\nOver the years, Wade and Matt’s passion for bodybuilding diminished and their passion for helping others achieve a biologically optimized state of health increased.\n\nBiOptimizers has one mission: help humans shift from a sick unhealthy condition into a peak biologically optimized state.  Biologically Optimized Health is a state of existence where all of the body’s functions operate in perfect harmony.\n\nOur unique health solutions empower you to achieve an optimal state of well-being in the body, mind, and soul. This allows you to have more energy, feel great and live a better life.\n\nOur current products include:\n\nMassZymes: improve absorbtion of nutrients from food and helps digestion issues from bloating to IBS. Digestive enzymes start to diminish after our mid-late twenties, making it harder to break down our food. This is the most complete and potent formula available.\nP3OM: a patented probiotic that is considered “The Navy Seals of Probiotics”. Using a super strain probiotic which survives all the way through your body. This will increase your good bacteria, maintain wellbeing and help fight against infections.\nGluten Guardian: eat your cake and get away with it. If you have a gluten intolerance this is the supplement for you.\nHerbal Parasite Cleanse: a natural herbal formula that helps eliminate dangerous parasites.\nConstiCleanse: turn your #2 into a #1\nHCL Breakthrough: a powerful formula to help with acid reflux and GERD. Did you know one of the most common causes of acid reflux is not having enough stomach acid!\nkApex: the ultimate keto digestive formula + an incredible natural energy booster.\nMagensium Breakthrough: all 7 types of magnesium, the most complete magnesium supplement blend available. Magnesium is very important for all body functions and it is estimated up to 50% of us aren't getting enough.\nWe have some of the most unique products available to help people improve health and feel great.\n\nOur products differ to anything else on the market as they are made with the ethos of \"do they work\" over marketing strategies and what they cost. Our formulas are the most potent on the market and have help thousands of customers to feel great.",
+      "url": "https://bioptimizers.uk/V7m3X",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 29
+    },
+    {
+      "id": "fd6c8860-715b-4de4-a1df-077d519894b3",
+      "title": "New Leaf Products",
+      "category": "Health & Fitness",
+      "description": "New Leaf Products is a leading UK-based health and wellness retailer supplying customers with a wide range of high-quality nutritional supplements.\n\nFrom vitamins and minerals to beauty and joint supplements as well as immunity products, we strive to provide you with high quality products that are made in the UK to the highest standards and that are value for money.\n\nWe have many UK bestsellers that are enjoyed monthly by hundreds of thousands of customers around the globe.\n\nOur products are UK made and made to the highest quality standards, after production we 3rd party lab test all our products for heavy metals and unwanted compounds.",
+      "url": "https://www.paidonresults.net/c/63151/1/2548/0",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 30
+    },
+    {
+      "id": "7d3e1153-9a7c-4a96-8f4a-1e6865652119",
+      "title": "Silvina LONDON",
+      "category": "Travel & Holidays",
+      "description": "Embrace Grey, Age Gracefully\nFounded by grey hair influencer Silvina Neder, Silvina LONDON celebrates the beauty of aging and embracing grey hair with confidence. Our premium shampoo and conditioner, made with 92% natural ingredients, nourish and protect grey and blonde hair, helping people age gracefully. With 34% of customers returning and 90% 5-star reviews, our products are loved and trusted by many.",
+      "url": "https://silvinalondon.partners/tdn5A",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 31
+    },
+    {
+      "id": "bfb60a41-8aba-4f71-80d9-9f2e3c397d6c",
+      "title": "Skiworld",
+      "category": "Travel & Holidays",
+      "description": "Skiworld are one of the largest ski holiday operators in the UK. We offer over 200 different accommodations in Europe and North America ranging from budget-conscious apartments to truly luxurious chalets and hotels. As a fully ABTA and ATOL bonded tour operator we package our holidays with flights and transportation to provide our customers with the peace of mind they deserve when going on holiday.\nLooking at how far we have come over the last 40 years, we reflected on what makes Skiworld different from the other ski companies out there and keeps us all so passionate about what we do.  The answer was easy - we are truly a company run by skiers for skiers.",
+      "url": "https://skiworld.link/9ZEkQ",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 32
     }
   ]
 }
