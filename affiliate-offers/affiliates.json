@@ -17,7 +17,7 @@
     {
       "id": "1",
       "title": "Klook",
-      "category": "Cruises & Excursions",
+      "category": "Travel & Holidays",
       "description": "Klook is how you can find joyful experiences for anytime, anywhere.\n\nLooking for fun things to do nearby? The best weekend getaway deals? Or just need to get from A to B when you're traveling? Klook is all of this and more. Best of all, everything's a few taps away.",
       "url": "https://klook.tpk.lv/kHCFqzSE",
       "image": "",
@@ -54,7 +54,7 @@
       "id": "a10eca0b-244d-4886-9bdb-100ecf08774a",
       "title": "Villa Select – Your Perfect Villa Holiday",
       "category": "Travel & Holidays",
-      "description": "Villa Select – the Villa Holiday Specialists.\nWe’ve been helping people to enjoy villa getaways for over 40 years, so we’re the experts when it comes to finding the perfect holiday home for you! Each of our villas has been carefully handpicked for its individual character and style to ensure we find you the perfect villa to suit your personal needs, tastes and wants. From cosy villas perfect for couples to huge countryside retreats with space enough for the ultimate family holiday.",
+      "description": "Villa Select – the Villa Holiday Specialists.\nWe’ve been helping people to enjoy villa getaways for over 40 years, so we’re the experts when it comes to finding the perfect holiday home for you! Each of our villas has been carefully handpicked for its individual character and style to ensure we find you the perfect villa to suit your personal needs, tastes and wants. From cosy villas perfect for couples to huge countryside retreats with space enough for the ultimate family holiday, whatever you’re looking for we are confident we’ll find the right place for you. What’s more, our Travel Specialists endeavour to visit every villa in our collection, ensuring that when you call us to find out more, you’ll be given first-hand knowledge and personal recommendations. So, whichever type of holiday villa you choose; near or far, big or small, we guarantee that you’ll enjoy those same levels of Villa Select service, which we hope are second to none.",
       "url": "https://www.paidonresults.net/c/63151/1/1735/0",
       "image": "",
       "price": "",
@@ -85,6 +85,78 @@
       "expiry": "",
       "enabled": true,
       "order": 7
+    },
+    {
+      "id": "672224bd-1e8d-457c-b3a1-7c655f5c0b9c",
+      "title": "Lounge Pass",
+      "category": "Travel & Holidays",
+      "description": "Pre bookable one time lounge access essential for getting a trip off to a great start. Enjoy the experience of VIP travel – book an airport lounge with Lounge Pass from as little as £13.50 per person. With 800 airport VIP lounges worldwide, you can add an extra touch of luxury to your next trip and make the travel experience a whole lot better.\n\nCancellations are permitted until 24 hours before the lounge visit.",
+      "url": "https://www.paidonresults.net/c/63151/1/88/0",
+      "image": "images/3bd02a41-1205-4a2c-bc1e-38f5104e9894.png",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 7
+    },
+    {
+      "id": "dd2a3e10-a2e5-4586-9818-3739939f7fef",
+      "title": "New advert",
+      "category": "Travel & Holidays",
+      "description": "",
+      "url": "",
+      "image": "",
+      "price": "",
+      "expiry": "",
+      "enabled": false,
+      "order": 8
+    },
+    {
+      "id": "995c509c-3dc2-4862-8df8-d9202571dac6",
+      "title": "Beds Online Store",
+      "category": "Home & Garden",
+      "description": "Beds and mattresses are essential purchases,\nWith a wide selection catering to various budgets and lifestyles, there's something for every customer,\nFinding the bed of your dreams is easy with Beds Online,\nOur extensive selection of high quality, stylish beds lets you find the perfect sleep solution for you, your family and your home.",
+      "url": "https://www.paidonresults.net/c/63151/1/2639/0",
+      "image": "images/7d62dc5c-df91-4c45-a052-68882c102696.png",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 9
+    },
+    {
+      "id": "36c2cd7c-a2f5-45c8-a15a-6439fc7fe0cb",
+      "title": "Dizzy Duck Designs",
+      "category": "Home & Garden",
+      "description": "Dizzy Duck Designs is a UK designer, producer & supplier of home decorating stencils, decals and vinyl prints that are sold worldwide.  We have experienced consistent growth with improved production and new cutting and printing machines. We are investing in our future.  Our stencils are made from high quality 190micron Mylar® polyester sheets, are washable and reusable making stenciling a cost effective way to decorate. As we develop our printed product ranges we will have a growing range of peel and stick products for even easier home decor ideas.\n\nWe put great emphasis on customer care and satisfaction and are always developing new designs.\n\n15% discount when 2 or more products are added to cart.",
+      "url": "https://dizzyduckdesigns.net/JqdPk",
+      "image": "images/74edae39-123f-40e1-8337-52aca4bda51d.png",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 10
+    },
+    {
+      "id": "b208f544-6685-4c3f-90e5-5ad694980054",
+      "title": "Lock and Key",
+      "category": "Home & Garden",
+      "description": "The Lock and Key Centre are one of the UK's largest independent locksmith & security equipment companies established for over 15 years.  We have the most comprehensive range of door locks, euro cylinders, mortice locks, multipoint locks and padlocks available for next day delivery.\nEuro Cylinder locks\nAnti snap euro locks TS007 3 star\nSecurity key cutting\nMaster key systems for Schools, Hotels, HMO landlords\nPadlocks\nDead locks\nSash locks\nDoor handles\nBritish standard locks\nMulti point locks for uPVC doors\nWindow handles\nSafes\nDigital door locks\nCode locks\nCam locks for lockers",
+      "url": "https://www.paidonresults.net/c/63151/1/1294/0",
+      "image": "images/b84b45f5-9acf-4674-a00b-a7c01b234646.png",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 11
+    },
+    {
+      "id": "9a2ab81c-739f-4a29-adc3-cd88bdc9c853",
+      "title": "Micucci Interiors",
+      "category": "Home & Garden",
+      "description": "Micucci Interiors\noffer an exclusive range of designer home accessories, dinnerware, lighting and fine art.\nAlthough we tend to specialise in accessories, we sometimes incorporate very special and unique pieces into our collection, resulting in an eclectic mix rather than a uniform style.\nWe travel around Europe and the rest of the world to source new exciting pieces that we regularly add to our collection.",
+      "url": "https://micucciinteriors.com/TAVvI",
+      "image": "images/5f73a610-e43f-4fb6-b1a2-1537d687d2d8.png",
+      "price": "",
+      "expiry": "",
+      "enabled": true,
+      "order": 12
     }
   ]
 }
