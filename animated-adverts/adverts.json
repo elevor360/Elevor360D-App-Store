@@ -58,5 +58,35 @@
     "end": "",
     "enabled": true,
     "file": "mwy7vwgf-z1ehyh.png"
+  },
+  {
+    "name": "Childrens books",
+    "url": "https://elevor360d.co.uk/books-reading-apps.html",
+    "button": "Find out more",
+    "seconds": 10,
+    "start": "",
+    "end": "",
+    "enabled": true,
+    "file": "mwy8l15c-ye4x3q.png"
+  },
+  {
+    "name": "Chilfrens Car Games",
+    "url": "https://elevor360d.co.uk/free-car-games.html",
+    "button": "Find out more",
+    "seconds": 10,
+    "start": "",
+    "end": "",
+    "enabled": true,
+    "file": "mwy8nniy-n99uqi.png"
+  },
+  {
+    "name": "LocalDeals",
+    "url": "https://elevor360.github.io/Elevore360D-Single-Business-Product-Offers-V4/",
+    "button": "Download Free",
+    "seconds": 10,
+    "start": "",
+    "end": "",
+    "enabled": true,
+    "file": "mwy8rvu3-8jt5zi.png"
   }
 ]
